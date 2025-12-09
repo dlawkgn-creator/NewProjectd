@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float _moveSpeed = 5f;
     [SerializeField] private float _jumpHeight = 1f;
     [SerializeField] private float _gravity = -9.81f;
-    [SerializeField] private float _airMoveMultiplier = 1.1f; //◀검색 결과
+    [SerializeField] private float _airMoveMultiplier = 1.1f;
 
     public float MoveSpeed
     {
